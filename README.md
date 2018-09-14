@@ -1,3 +1,7 @@
 # kiitfest
 
-#Run this file on localhost, as there are some problems with linking the files (didn't had time to figure it out). 
+Faced problems in linking the files
+
+# solution
+
+Run this website on localhost
